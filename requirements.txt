@@ -1,0 +1,8 @@
+django==1.11.5
+sorl-thumbnail==12.3
+django-bootstrap3==8.2.3
+Pillow==4.0.0
+pytz==2016.10
+django-filter==1.0.4
+Markdown==2.6.9
+django-mailer==1.2.2
